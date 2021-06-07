@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_price_uom_info,price.uom.info,model_price_uom_info,,1,1,1,1
+access_price_uom_user,price.uom.user,model_price_uom_user,,1,1,1,1
